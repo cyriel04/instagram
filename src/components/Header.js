@@ -3,7 +3,6 @@ import { StyleSheet, Text, View } from 'react-native';
 
 const styles = StyleSheet.create({
   viewStyle: {
-    backgroundColor: '#F2F6F0',
     alignItems: 'center',
     justifyContent: 'center',
     height: 50,
